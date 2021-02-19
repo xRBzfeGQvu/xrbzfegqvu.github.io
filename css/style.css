@@ -42,11 +42,36 @@ ul li a:hover{
     transform: translate(-50%, -50%);
 }
 
+.ftitle{
+    position: absolute;
+    color: #fff;
+    top: 43.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.fctitle{
+    position: absolute;
+    color: #fff;
+    top: 43.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 .faq{
     width: 100%;
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
+    text-align: center;
+    color: #fff;
+}
+
+.main{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(100%);
     text-align: center;
     color: #fff;
 }
