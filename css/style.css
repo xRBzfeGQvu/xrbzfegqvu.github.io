@@ -58,10 +58,36 @@ ul li a:hover{
     transform: translate(-50%, -50%);
 }
 
+.atitle{
+    position: absolute;
+    color: #fff;
+    top: 44.9%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 .faq{
     width: 100%;
     position: absolute;
     top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fff;
+}
+
+.contact{
+    width: 100%;
+    position: absolute;
+    top: 49%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: #fff;
+}
+
+.about{
+    width: 100%;
+    position: absolute;
+    top: 49%;
     transform: translateY(-50%);
     text-align: center;
     color: #fff;
